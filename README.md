@@ -17,7 +17,10 @@
   
 ### 🔧 *Tools* 🔧
   
-![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJIDEA&logoColor=white)  
+![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJIDEA&logoColor=white) 
+<br>
+<br>
+![Hyeju's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimoju01&show_icons=true&theme=solarized-light)
   
 <!--
 **kimoju01/kimoju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
