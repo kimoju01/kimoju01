@@ -8,7 +8,8 @@
 ![Java](http://is.am/5d5k)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
-![Amazon-AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=AmazonAWS&logoColor=white)
+![Amazon-EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=flat-square&logo=AmazonEC2&logoColor=white)
+![Amazon-S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?&style=flat-square&logo=AmazonS3&logoColor=white)  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
