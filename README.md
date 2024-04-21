@@ -1,8 +1,9 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:FAE5AE,100:FAE796&height=250&section=header&text=Hi!%20I'm%20Hyeju!&fontSize=60&fontColor=332F2E&fontAlign=70&fontAlignY=35)
-### 🐧
 
+### 🍫
+<!--
 ### 🗂️ *Skills* 🗂️
   
 ![Java](http://is.am/5d5k)
